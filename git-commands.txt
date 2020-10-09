@@ -1,0 +1,10 @@
+git --version
+git status
+git init
+git add
+git rm --cached
+git commit -m
+git push
+git log
+git log --oneline
+git diff if1..id2
